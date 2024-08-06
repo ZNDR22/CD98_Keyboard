@@ -9195,9 +9195,9 @@
 		)
 		(uuid "febf8629-fe6f-460f-866e-cb796a880c24")
 	)
-	(text "ADD USB-C"
+	(text "-ADD USB-C"
 		(exclude_from_sim no)
-		(at 362.712 125.73 0)
+		(at 313.436 256.286 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -9937,7 +9937,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 340.36 195.58 0)
 			(effects
 				(font
@@ -10005,7 +10005,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 37.465 139.065 0)
 			(effects
 				(font
@@ -10073,7 +10073,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 164.465 121.285 0)
 			(effects
 				(font
@@ -10143,7 +10143,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 87.63 180.34 90)
 			(effects
 				(font
@@ -10229,7 +10229,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 37.465 192.405 0)
 			(effects
 				(font
@@ -10299,7 +10299,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 151.13 44.45 90)
 			(effects
 				(font
@@ -10387,7 +10387,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 44.45 90)
 			(effects
 				(font
@@ -10475,7 +10475,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 227.33 162.56 90)
 			(effects
 				(font
@@ -10563,7 +10563,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 151.13 144.78 90)
 			(effects
 				(font
@@ -10649,7 +10649,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 88.265 192.405 0)
 			(effects
 				(font
@@ -10717,7 +10717,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 75.565 174.625 0)
 			(effects
 				(font
@@ -10785,7 +10785,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 50.165 139.065 0)
 			(effects
 				(font
@@ -10855,7 +10855,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 49.53 44.45 90)
 			(effects
 				(font
@@ -10941,7 +10941,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 323.85 160.02 0)
 			(effects
 				(font
@@ -11011,7 +11011,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.73 144.78 90)
 			(effects
 				(font
@@ -11099,7 +11099,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 49.53 144.78 90)
 			(effects
 				(font
@@ -11253,7 +11253,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 138.43 127 90)
 			(effects
 				(font
@@ -11339,7 +11339,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 126.365 139.065 0)
 			(effects
 				(font
@@ -11409,7 +11409,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 87.63 162.56 90)
 			(effects
 				(font
@@ -11497,7 +11497,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 113.03 198.12 90)
 			(effects
 				(font
@@ -11567,7 +11567,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "11725c01-3db2-4781-a0b1-f55536a71d66")
-		(property "Reference" "Rr"
+		(property "Reference" "Rr1"
 			(at 351.79 148.5899 0)
 			(effects
 				(font
@@ -11585,7 +11585,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 349.25 149.86 0)
 			(effects
 				(font
@@ -11621,7 +11621,7 @@
 		(instances
 			(project "CD98"
 				(path "/65b16ee0-9a73-4c76-8c59-7d7eba97c11b"
-					(reference "Rr")
+					(reference "Rr1")
 					(unit 1)
 				)
 			)
@@ -11655,7 +11655,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 74.93 127 90)
 			(effects
 				(font
@@ -11741,7 +11741,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 202.565 121.285 0)
 			(effects
 				(font
@@ -11811,7 +11811,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 87.63 144.78 90)
 			(effects
 				(font
@@ -11899,7 +11899,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 214.63 215.9 90)
 			(effects
 				(font
@@ -11985,7 +11985,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 50.165 192.405 0)
 			(effects
 				(font
@@ -12053,7 +12053,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "random-keyboard-parts:SKQG-1155865"
 			(at 342.9 154.94 0)
 			(effects
 				(font
@@ -12123,7 +12123,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 87.63 44.45 90)
 			(effects
 				(font
@@ -12211,7 +12211,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.73 162.56 90)
 			(effects
 				(font
@@ -12297,7 +12297,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 50.165 38.735 0)
 			(effects
 				(font
@@ -12365,7 +12365,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 202.565 156.845 0)
 			(effects
 				(font
@@ -12433,7 +12433,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 100.965 156.845 0)
 			(effects
 				(font
@@ -12501,7 +12501,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 215.265 192.405 0)
 			(effects
 				(font
@@ -12553,7 +12553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2df2f888-5a48-4fd5-b30d-790068ecd5b6")
-		(property "Reference" "Rd"
+		(property "Reference" "Rd1"
 			(at 394.97 208.28 90)
 			(effects
 				(font
@@ -12569,7 +12569,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 394.97 213.36 0)
 			(effects
 				(font
@@ -12605,7 +12605,7 @@
 		(instances
 			(project "CD98"
 				(path "/65b16ee0-9a73-4c76-8c59-7d7eba97c11b"
-					(reference "Rd")
+					(reference "Rd1")
 					(unit 1)
 				)
 			)
@@ -12637,7 +12637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 177.165 156.845 0)
 			(effects
 				(font
@@ -12705,7 +12705,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 151.765 192.405 0)
 			(effects
 				(font
@@ -12775,7 +12775,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 138.43 198.12 90)
 			(effects
 				(font
@@ -12863,7 +12863,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 100.33 162.56 90)
 			(effects
 				(font
@@ -12949,7 +12949,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 215.265 210.185 0)
 			(effects
 				(font
@@ -13017,7 +13017,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 151.765 38.735 0)
 			(effects
 				(font
@@ -13085,7 +13085,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 24.765 156.845 0)
 			(effects
 				(font
@@ -13155,7 +13155,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 176.53 180.34 90)
 			(effects
 				(font
@@ -13243,7 +13243,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 74.93 215.9 90)
 			(effects
 				(font
@@ -13329,7 +13329,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 139.065 192.405 0)
 			(effects
 				(font
@@ -13398,7 +13398,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Horizontal"
 			(at 143.51 74.93 0)
 			(effects
 				(font
@@ -13588,7 +13588,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 36.83 180.34 90)
 			(effects
 				(font
@@ -13740,7 +13740,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "random-keyboard-parts:Molex-0548190589"
 			(at 344.17 100.33 0)
 			(effects
 				(font
@@ -13822,7 +13822,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 62.23 44.45 90)
 			(effects
 				(font
@@ -13908,7 +13908,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 100.965 174.625 0)
 			(effects
 				(font
@@ -13978,7 +13978,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 189.23 144.78 90)
 			(effects
 				(font
@@ -14064,7 +14064,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 100.965 210.185 0)
 			(effects
 				(font
@@ -14132,7 +14132,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 24.765 38.735 0)
 			(effects
 				(font
@@ -14200,7 +14200,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 139.065 156.845 0)
 			(effects
 				(font
@@ -14268,7 +14268,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 62.865 210.185 0)
 			(effects
 				(font
@@ -14336,7 +14336,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 202.565 192.405 0)
 			(effects
 				(font
@@ -14404,7 +14404,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 113.665 192.405 0)
 			(effects
 				(font
@@ -14735,7 +14735,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 126.365 38.735 0)
 			(effects
 				(font
@@ -14803,7 +14803,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 189.865 156.845 0)
 			(effects
 				(font
@@ -14873,7 +14873,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 151.13 198.12 90)
 			(effects
 				(font
@@ -14961,7 +14961,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 176.53 162.56 90)
 			(effects
 				(font
@@ -15049,7 +15049,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 151.13 162.56 90)
 			(effects
 				(font
@@ -15137,7 +15137,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 113.03 180.34 90)
 			(effects
 				(font
@@ -15223,7 +15223,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 370.84 93.98 0)
 			(effects
 				(font
@@ -15294,7 +15294,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 332.74 226.06 0)
 			(effects
 				(font
@@ -15364,7 +15364,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 62.23 144.78 90)
 			(effects
 				(font
@@ -15452,7 +15452,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 36.83 215.9 90)
 			(effects
 				(font
@@ -15538,7 +15538,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 100.965 121.285 0)
 			(effects
 				(font
@@ -15606,7 +15606,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 177.165 139.065 0)
 			(effects
 				(font
@@ -15674,7 +15674,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 215.265 139.065 0)
 			(effects
 				(font
@@ -15742,7 +15742,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 189.865 121.285 0)
 			(effects
 				(font
@@ -15810,7 +15810,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 37.465 210.185 0)
 			(effects
 				(font
@@ -15880,7 +15880,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.73 44.45 90)
 			(effects
 				(font
@@ -16032,7 +16032,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 202.565 139.065 0)
 			(effects
 				(font
@@ -16100,7 +16100,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 322.58 187.96 0)
 			(effects
 				(font
@@ -16168,7 +16168,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 100.965 139.065 0)
 			(effects
 				(font
@@ -16236,7 +16236,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm"
 			(at 220.98 34.036 0)
 			(effects
 				(font
@@ -16313,7 +16313,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 62.865 156.845 0)
 			(effects
 				(font
@@ -16449,7 +16449,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 176.53 198.12 90)
 			(effects
 				(font
@@ -16535,7 +16535,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 113.665 174.625 0)
 			(effects
 				(font
@@ -16603,7 +16603,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 62.865 192.405 0)
 			(effects
 				(font
@@ -16673,7 +16673,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 113.03 144.78 90)
 			(effects
 				(font
@@ -16761,7 +16761,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 176.53 127 90)
 			(effects
 				(font
@@ -16849,7 +16849,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 36.83 127 90)
 			(effects
 				(font
@@ -16935,7 +16935,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 151.765 174.625 0)
 			(effects
 				(font
@@ -17005,7 +17005,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 163.83 162.56 90)
 			(effects
 				(font
@@ -17093,7 +17093,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 100.33 44.45 90)
 			(effects
 				(font
@@ -17181,7 +17181,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 163.83 215.9 90)
 			(effects
 				(font
@@ -17269,7 +17269,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 227.33 127 90)
 			(effects
 				(font
@@ -17355,7 +17355,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 100.965 38.735 0)
 			(effects
 				(font
@@ -17425,7 +17425,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 227.33 180.34 90)
 			(effects
 				(font
@@ -17511,7 +17511,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 88.265 156.845 0)
 			(effects
 				(font
@@ -17579,7 +17579,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 139.065 38.735 0)
 			(effects
 				(font
@@ -17647,7 +17647,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 62.865 121.285 0)
 			(effects
 				(font
@@ -17783,7 +17783,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 62.23 162.56 90)
 			(effects
 				(font
@@ -17871,7 +17871,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 62.23 127 90)
 			(effects
 				(font
@@ -17959,7 +17959,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 227.33 215.9 90)
 			(effects
 				(font
@@ -18047,7 +18047,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 100.33 180.34 90)
 			(effects
 				(font
@@ -18135,7 +18135,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 151.13 180.34 90)
 			(effects
 				(font
@@ -18289,7 +18289,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 214.63 127 90)
 			(effects
 				(font
@@ -18377,7 +18377,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.73 180.34 90)
 			(effects
 				(font
@@ -18463,7 +18463,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 50.165 156.845 0)
 			(effects
 				(font
@@ -18533,7 +18533,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 100.33 198.12 90)
 			(effects
 				(font
@@ -18621,7 +18621,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 100.33 144.78 90)
 			(effects
 				(font
@@ -18709,7 +18709,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 214.63 144.78 90)
 			(effects
 				(font
@@ -18797,7 +18797,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 74.93 180.34 90)
 			(effects
 				(font
@@ -18885,7 +18885,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 127 90)
 			(effects
 				(font
@@ -18971,7 +18971,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 113.665 139.065 0)
 			(effects
 				(font
@@ -19039,7 +19039,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 113.665 121.285 0)
 			(effects
 				(font
@@ -19109,7 +19109,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 74.93 44.45 90)
 			(effects
 				(font
@@ -19195,7 +19195,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 75.565 38.735 0)
 			(effects
 				(font
@@ -19265,7 +19265,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 198.12 90)
 			(effects
 				(font
@@ -19353,7 +19353,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 36.83 44.45 90)
 			(effects
 				(font
@@ -19439,7 +19439,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 177.165 38.735 0)
 			(effects
 				(font
@@ -19507,7 +19507,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 75.565 121.285 0)
 			(effects
 				(font
@@ -19574,7 +19574,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering"
 			(at 339.09 167.64 0)
 			(effects
 				(font
@@ -19648,7 +19648,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 202.565 210.185 0)
 			(effects
 				(font
@@ -19718,7 +19718,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 163.83 198.12 90)
 			(effects
 				(font
@@ -19804,7 +19804,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 75.565 192.405 0)
 			(effects
 				(font
@@ -19938,7 +19938,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 177.165 210.185 0)
 			(effects
 				(font
@@ -20008,7 +20008,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 163.83 44.45 90)
 			(effects
 				(font
@@ -20094,7 +20094,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 113.665 156.845 0)
 			(effects
 				(font
@@ -20164,7 +20164,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.73 198.12 90)
 			(effects
 				(font
@@ -20252,7 +20252,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 215.9 90)
 			(effects
 				(font
@@ -20340,7 +20340,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 176.53 44.45 90)
 			(effects
 				(font
@@ -20426,7 +20426,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 164.465 139.065 0)
 			(effects
 				(font
@@ -20494,7 +20494,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 164.465 156.845 0)
 			(effects
 				(font
@@ -20562,7 +20562,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 215.265 121.285 0)
 			(effects
 				(font
@@ -20632,7 +20632,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 176.53 144.78 90)
 			(effects
 				(font
@@ -20718,7 +20718,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 139.065 121.285 0)
 			(effects
 				(font
@@ -20786,7 +20786,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 75.565 139.065 0)
 			(effects
 				(font
@@ -20854,7 +20854,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 50.165 121.285 0)
 			(effects
 				(font
@@ -20924,7 +20924,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 214.63 198.12 90)
 			(effects
 				(font
@@ -21010,7 +21010,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 189.865 192.405 0)
 			(effects
 				(font
@@ -21080,7 +21080,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 113.03 162.56 90)
 			(effects
 				(font
@@ -21166,7 +21166,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 215.265 156.845 0)
 			(effects
 				(font
@@ -21234,7 +21234,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 177.165 174.625 0)
 			(effects
 				(font
@@ -21302,7 +21302,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 139.065 174.625 0)
 			(effects
 				(font
@@ -21372,7 +21372,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 180.34 90)
 			(effects
 				(font
@@ -21460,7 +21460,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 189.23 44.45 90)
 			(effects
 				(font
@@ -21546,7 +21546,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 164.465 192.405 0)
 			(effects
 				(font
@@ -21616,7 +21616,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 87.63 127 90)
 			(effects
 				(font
@@ -21702,7 +21702,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 37.465 121.285 0)
 			(effects
 				(font
@@ -21772,7 +21772,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 100.33 127 90)
 			(effects
 				(font
@@ -21858,7 +21858,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 151.765 156.845 0)
 			(effects
 				(font
@@ -21928,7 +21928,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 36.83 144.78 90)
 			(effects
 				(font
@@ -22016,7 +22016,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 189.23 215.9 90)
 			(effects
 				(font
@@ -22104,7 +22104,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 49.53 198.12 90)
 			(effects
 				(font
@@ -22192,7 +22192,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 307.34 226.06 0)
 			(effects
 				(font
@@ -22260,7 +22260,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 24.765 210.185 0)
 			(effects
 				(font
@@ -22328,7 +22328,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 151.765 139.065 0)
 			(effects
 				(font
@@ -22462,7 +22462,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 24.765 139.065 0)
 			(effects
 				(font
@@ -22532,7 +22532,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 227.33 198.12 90)
 			(effects
 				(font
@@ -22620,7 +22620,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 201.93 162.56 90)
 			(effects
 				(font
@@ -22708,7 +22708,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 138.43 180.34 90)
 			(effects
 				(font
@@ -22796,7 +22796,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 113.03 44.45 90)
 			(effects
 				(font
@@ -22884,7 +22884,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 36.83 162.56 90)
 			(effects
 				(font
@@ -22970,7 +22970,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 62.865 174.625 0)
 			(effects
 				(font
@@ -23038,7 +23038,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 164.465 38.735 0)
 			(effects
 				(font
@@ -23108,7 +23108,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 163.83 180.34 90)
 			(effects
 				(font
@@ -23194,7 +23194,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 189.865 210.185 0)
 			(effects
 				(font
@@ -23262,7 +23262,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 88.265 139.065 0)
 			(effects
 				(font
@@ -23330,7 +23330,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 126.365 174.625 0)
 			(effects
 				(font
@@ -23398,7 +23398,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 189.865 38.735 0)
 			(effects
 				(font
@@ -23466,7 +23466,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 177.165 121.285 0)
 			(effects
 				(font
@@ -23536,7 +23536,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 214.63 162.56 90)
 			(effects
 				(font
@@ -23624,7 +23624,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 74.93 144.78 90)
 			(effects
 				(font
@@ -23710,7 +23710,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 88.265 38.735 0)
 			(effects
 				(font
@@ -23780,7 +23780,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 176.53 215.9 90)
 			(effects
 				(font
@@ -23932,7 +23932,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 62.865 139.065 0)
 			(effects
 				(font
@@ -24002,7 +24002,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 87.63 198.12 90)
 			(effects
 				(font
@@ -24088,7 +24088,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 139.065 139.065 0)
 			(effects
 				(font
@@ -24156,7 +24156,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 88.265 174.625 0)
 			(effects
 				(font
@@ -24226,7 +24226,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 113.03 127 90)
 			(effects
 				(font
@@ -24312,7 +24312,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 75.565 156.845 0)
 			(effects
 				(font
@@ -24380,7 +24380,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 126.365 121.285 0)
 			(effects
 				(font
@@ -24448,7 +24448,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 100.965 192.405 0)
 			(effects
 				(font
@@ -24518,7 +24518,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 138.43 44.45 90)
 			(effects
 				(font
@@ -24606,7 +24606,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 74.93 198.12 90)
 			(effects
 				(font
@@ -24692,7 +24692,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 62.865 38.735 0)
 			(effects
 				(font
@@ -24760,7 +24760,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 151.765 121.285 0)
 			(effects
 				(font
@@ -24828,7 +24828,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 24.765 174.625 0)
 			(effects
 				(font
@@ -24896,7 +24896,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 164.465 210.185 0)
 			(effects
 				(font
@@ -24964,7 +24964,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 24.765 121.285 0)
 			(effects
 				(font
@@ -25034,7 +25034,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 62.23 198.12 90)
 			(effects
 				(font
@@ -25252,7 +25252,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 126.365 156.845 0)
 			(effects
 				(font
@@ -25322,7 +25322,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 138.43 144.78 90)
 			(effects
 				(font
@@ -25408,7 +25408,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 50.165 174.625 0)
 			(effects
 				(font
@@ -25478,7 +25478,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 125.73 127 90)
 			(effects
 				(font
@@ -25564,7 +25564,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 113.665 38.735 0)
 			(effects
 				(font
@@ -25634,7 +25634,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 189.23 127 90)
 			(effects
 				(font
@@ -25722,7 +25722,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 345.44 226.06 0)
 			(effects
 				(font
@@ -25790,7 +25790,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 126.365 192.405 0)
 			(effects
 				(font
@@ -25860,7 +25860,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 49.53 215.9 90)
 			(effects
 				(font
@@ -25946,7 +25946,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 151.765 210.185 0)
 			(effects
 				(font
@@ -26016,7 +26016,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 189.23 162.56 90)
 			(effects
 				(font
@@ -26102,7 +26102,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 88.265 121.285 0)
 			(effects
 				(font
@@ -26170,7 +26170,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 37.465 38.735 0)
 			(effects
 				(font
@@ -26238,7 +26238,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 164.465 174.625 0)
 			(effects
 				(font
@@ -26306,7 +26306,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Horizontal"
 			(at 143.51 90.17 0)
 			(effects
 				(font
@@ -26430,7 +26430,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 62.23 180.34 90)
 			(effects
 				(font
@@ -26518,7 +26518,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 320.04 226.06 0)
 			(effects
 				(font
@@ -26588,7 +26588,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 227.33 144.78 90)
 			(effects
 				(font
@@ -26676,7 +26676,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 163.83 127 90)
 			(effects
 				(font
@@ -26762,7 +26762,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 215.265 174.625 0)
 			(effects
 				(font
@@ -26832,7 +26832,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 151.13 127 90)
 			(effects
 				(font
@@ -26920,7 +26920,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 189.23 180.34 90)
 			(effects
 				(font
@@ -27008,7 +27008,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 74.93 162.56 90)
 			(effects
 				(font
@@ -27096,7 +27096,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 163.83 144.78 90)
 			(effects
 				(font
@@ -27182,7 +27182,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U-Hotswap"
 			(at 189.865 174.625 0)
 			(effects
 				(font
@@ -27250,7 +27250,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 334.01 185.42 0)
 			(effects
 				(font
@@ -27320,7 +27320,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 138.43 162.56 90)
 			(effects
 				(font
@@ -27408,7 +27408,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 49.53 127 90)
 			(effects
 				(font
@@ -27496,7 +27496,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 113.03 215.9 90)
 			(effects
 				(font
@@ -27581,7 +27581,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 323.85 170.18 0)
 			(effects
 				(font
